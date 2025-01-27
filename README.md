@@ -1,0 +1,1 @@
+Created a horizontal platformer original game that can be played on GDevelop. The game is a Mario-like adventure and host expensive gameplay in a forest. It is focused on the growth of the character during the adventure. The player experiences different challenges when progressing in different levels of the game.
